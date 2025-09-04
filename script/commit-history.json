@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Leonardo Koller",
+    "commit": {
+      "date": "2025-09-04T14:01:43.000Z",
+      "message": "feat:se muestra la cantidad precio y el monto neto",
+      "url": "https://github.com/leoGKM/Totalizador/commit/HEAD"
+    },
+    "stats": {
+      "total": 73,
+      "additions": 54,
+      "deletions": 19,
+      "date": "2025-09-04"
+    },
+    "coverage": 25,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
